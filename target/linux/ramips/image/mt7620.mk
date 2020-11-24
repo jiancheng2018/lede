@@ -774,7 +774,7 @@ TARGET_DEVICES += phicomm_k2g
 
 define Device/phicomm_psg1208
   SOC := mt7620a
-  IMAGE_SIZE := 7872k
+  IMAGE_SIZE := 16064k
   DEVICE_VENDOR := Phicomm
   DEVICE_MODEL := PSG1208
   DEVICE_PACKAGES := kmod-mt76x2
